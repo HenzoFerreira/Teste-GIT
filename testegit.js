@@ -1,1 +1,1 @@
-console.log('Testando o GIT')
+console.log('Novo texto para testar o GIT')
